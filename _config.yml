@@ -23,7 +23,7 @@ email: sandro.caceres.olave@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Place where you can see who I am, my current work and articles i hace been publishing
   about various programming topics.
-baseurl: "/me" # the subpath of your site, e.g. /blog
+baseurl: "/my-personal-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Sdanisjb
 github_username: Sdanisjb
